@@ -1,4 +1,4 @@
-# RETAILIQ DASHBOARD
+# 🛍️ RETAILIQ DASHBOARD
 
 RETAILIQ is an interactive **Power BI analytics project** designed to analyze
 **sales, payments, orders, quantities, suppliers and customer behavior**
